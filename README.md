@@ -2,5 +2,5 @@
 Um programa básico realizado para praticar o conceito de tabelas
 
 # Tecnologias utilizadas
-* HTML:5
+* HTML5
 * CSS Interno
